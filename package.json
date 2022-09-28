@@ -1,0 +1,21 @@
+{
+  "name": "Neo-Existence",
+  "displayName": "neo-existence",
+  "description": "Inspired by the a japanese image that incorporated red and green instead of the typical blue and orange for a cyberpunk-esque world",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neo-Existence",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neo-Existence-color-theme.json"
+      }
+    ]
+  }
+}
